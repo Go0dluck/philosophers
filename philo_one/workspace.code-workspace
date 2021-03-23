@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__mutex_base": "c",
+			"__locale": "c",
+			"bitset": "c"
+		}
+	}
+}
